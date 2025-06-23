@@ -4,7 +4,7 @@ int main(void) {
 	float peso;
 	float altura;
 	float imc;
-	
+	//ya habia hecho el programa con esa verificacion desde la primera vez
 	do{
 	printf ("Ingrese su peso en kilogramos: ");
 	scanf ("%f", &peso);
